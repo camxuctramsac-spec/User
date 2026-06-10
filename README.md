@@ -7,19 +7,9 @@
 <p align="center">
   <a href="https://www.youtube.com/@milksame6520" target="_blank">
     <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
-    ### 🎧 Bật một chút nhạc nhé?
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=e1hRL4FAnjU&list=RDe1hRL4FAnjU&start_radio=1" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3F0bnd6bXNpc3R5NmY4M2pwdWZ5Y2pwdWZ5Y2pwdWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9bLw0xsOALN26Nby/giphy.gif" width="150" alt="Play Music"/>
-  </a>
-  ### 🎵 My Favorite Song / Now Playing
-<p align="left">
-  <a href="https://open.spotify.com/track/4PTG3Z6ehGkBFm6T7YSpwD">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ncs76wepg64lyv5bvywswm4m3e&cover_image=true&theme=dark&bar_color=1DB954&bar_color_cover=false" alt="Spotify" width="400px"/>
-  </a>
+   
 </p>
   <br>
-  <i>(Click vào chú gấu để phát nhạc tự động trên YouTube)</i>
 </p>
   </a>
 </p>
