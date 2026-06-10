@@ -9,7 +9,7 @@
     <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
     ### 🎧 Bật một chút nhạc nhé?
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1" target="_blank">
+  <a href="https://www.youtube.com/watch?v=e1hRL4FAnjU&list=RDe1hRL4FAnjU&start_radio=1" target="_blank">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3F0bnd6bXNpc3R5NmY4M2pwdWZ5Y2pwdWZ5Y2pwdWZ5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp9bLw0xsOALN26Nby/giphy.gif" width="150" alt="Play Music"/>
   </a>
   ### 🎵 My Favorite Song / Now Playing
